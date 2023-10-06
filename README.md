@@ -31,7 +31,7 @@ if __name__ == '__main__':
 ```
 
 <p align="left">
-  <a href="cadu.dev7@gmail.com" alt="Gmail">
+  <a href="mailto:cadu.dev7@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/carlos-eduardo-b1b9aa230/" alt="LinkedIn">
