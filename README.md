@@ -28,6 +28,7 @@ class Desenvolvedor():
 
 if __name__ == '__main__':
     me = Desenvolvedor()
+    print(me.name)
 ```
 
 <p align="left">
