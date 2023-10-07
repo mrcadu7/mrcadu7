@@ -16,12 +16,13 @@ Olá, eu sou o Cadú! Sou desenvolvedor Back-End
 class Desenvolvedor():
     
   def __init__(self):
-    self.name = "Carlos Eduardo";
-    self.username = "Cadu";
-    self.location = "RJ, Brasil";
-    self.language = "Python";
+    self.name = "Carlos Eduardo"
+    self.username = "Cadu"
+    self.location = "RJ, Brasil"
+    self.language = "Python"
     self.framework = ["FastAPI", "Django"]
     self.databases = ["MySQL", "PostgreSQL"]
+    self.containers = "Docker"
   
   def __str__(self):
     return self.name
