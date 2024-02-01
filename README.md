@@ -21,7 +21,7 @@ class Desenvolvedor():
     self.location = "RJ, Brasil"
     self.language = "Python"
     self.framework = ["FastAPI", "Django"]
-    self.databases = ["MySQL", "PostgreSQL"]
+    self.databases = ["MySQL", "PostgreSQL", "MongoDB"]
     self.containers = "Docker"
   
   def __str__(self):
