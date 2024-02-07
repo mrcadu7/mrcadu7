@@ -6,21 +6,21 @@ Olá, eu sou o Cadú! Sou desenvolvedor Back-End
 
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgres,mongo,docker,selenium,js,nodejs,express,redis,sentry,aws,git,vscode,html,css&perline=9" />
+  </a>
 </p>
 
 ```python
-class Desenvolvedor():
+class Developer():
     
   def __init__(self):
     self.name = "Carlos Eduardo"
     self.username = "Cadu"
     self.location = "RJ, Brasil"
-    self.language = "Python"
-    self.framework = ["FastAPI", "Django"]
+    self.language = ["Python", "JavaScript"]
+    self.framework = ["FastAPI", "Django", "Express"]
     self.databases = ["MySQL", "PostgreSQL", "MongoDB"]
     self.containers = "Docker"
   
@@ -28,7 +28,7 @@ class Desenvolvedor():
     return self.name
 
 if __name__ == '__main__':
-    me = Desenvolvedor()
+    me = Developer()
     print(me.name)
 ```
 
